@@ -1,4 +1,7 @@
-![cover](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)
+#![cover](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)(.callout)
+.callout {
+    float: right;
+}
 Forte d'une grande expertise dans le secteur du
 numérique, je suis une personne de terrain, rigoureuse et
 dynamique, qui s'adapte rapidement. Ces atouts font de
