@@ -6,4 +6,4 @@ moi la candidate idéale pour répondre aux besoins de
 développement digital de votre structure. Découvrez-mes
 réalisations et n'hésitez pas à prendre contact avec moi
 </h1>
-![float:right](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)
+![cover](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)
