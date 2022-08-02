@@ -1,5 +1,5 @@
 ![cover](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)(.callout)
-.callout {
+.cover {
     float: right;
 }
 Forte d'une grande expertise dans le secteur du
