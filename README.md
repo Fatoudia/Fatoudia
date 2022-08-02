@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1>
 Forte d'une grande expertise dans le secteur du
 numérique, je suis une personne de terrain, rigoureuse et
 dynamique, qui s'adapte rapidement. Ces atouts font de
