@@ -5,5 +5,4 @@ dynamique, qui s'adapte rapidement. Ces atouts font de
 moi la candidate idéale pour répondre aux besoins de
 développement digital de votre structure. Découvrez-mes
 réalisations et n'hésitez pas à prendre contact avec moi
-</h1>
-# ![Fatoudia](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)
+</h1>   ![Fatoudia](https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png)
