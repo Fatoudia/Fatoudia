@@ -1,5 +1,5 @@
 <h1 align="center">Awesome GitHub Profile README 
-<img src="https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 500px; height: 200px;" width="200" height="44" /></a></h1>
+<img src="https://github.com/Fatoudia/Fatoudia/blob/main/MyProfile.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width:  200px; height: 44px;" width="200" height="44" /></a></h1>
 
 
 <!---
