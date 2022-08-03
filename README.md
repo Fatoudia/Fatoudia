@@ -1,4 +1,4 @@
-<h1>Awesome GitHub Profile README <img src="https://github.com/Fatoudia/Fatoudia/blob/main/icon.png"></a>
+<h1>Awesome GitHub Profile README <img src="https://github.com/Fatoudia/Fatoudia/blob/main/icon.png" style="width: 20px; height: 20px;" width="50"></a>
 <img src="https://github.com/Fatoudia/Fatoudia/blob/main/MyProfileORANGE1.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 500px; height: 100px;" width="200" height="44" /></a></h1>
 
 
